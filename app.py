@@ -1,2 +1,4 @@
 name = input("Enter your name: ")
-print(f"Hello, {name}! Welcome to Git and GitHub.")
+print(f"Hello, {name}!")
+print("This application demonstrates Git branching.")
+
